@@ -1,5 +1,8 @@
 # Fireworks porject
+Checkout Github page :
 
-Press 1, 2, 3 keys to watch beautiful fireworks :)
+https://salinaria.github.io/Fireworks/
 
-Right click to create a new firework
+
+* Press 1, 2, 3 keys to watch beautiful fireworks :)
+* Right click and hold to create a new firework
